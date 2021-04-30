@@ -22,10 +22,6 @@ build
 out/
 CMakeSettings.json
 
-# Output
-bin/
-lib/
-
 # QtCreator
 CMakeLists.txt.user
 
