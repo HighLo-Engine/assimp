@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>K:\Programme\HighLo-Engine\HighLo\vendor\assimp\bin\Debug-windows-x86_64\Assimp\Assimp.dll</FullPath>
+      <FullPath>K:\Programme\HighLo-Engine\HighLo\vendor\assimp\bin\Debug-windows-x86_64\assimp\assimp.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
